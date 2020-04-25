@@ -6,8 +6,6 @@ main:
     url: /portfolio/
   - title: "Gallery"
     url: /gallery/
-  - title: "Recipes"
-    url: /recipes/
   - title: "About"
     url: /about/
 

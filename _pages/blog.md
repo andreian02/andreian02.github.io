@@ -1,16 +1,14 @@
 ---
-layout: categories
+layout: posts
 permalink: /blog/
 title: "Blog"
-author_profile: true
-
 header:
   image: "/images/Clouds.jpg"
 ---
 
 
 {% include base_path %}
-{% include group-by-array category=site.posts field="tags" %}
+{% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}

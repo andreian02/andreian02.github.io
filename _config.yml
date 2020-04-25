@@ -245,6 +245,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:

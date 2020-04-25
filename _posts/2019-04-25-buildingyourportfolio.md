@@ -3,7 +3,7 @@ title: "Building your own portfolio"
 date: 2019-04-25
 tags: [portfolio, data science,]
 header:
-  image: "/images/portfolio/unsplash-image-1.jpg"
+  image: "/images/portfolio/portfolio.jpg"
 excerpt: "Portfolio, Data Science,"
 mathjax: "true"
 ---

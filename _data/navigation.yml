@@ -8,8 +8,7 @@ main:
     url: /gallery/
   - title: "About"
     url: /about/
-  - title: "Recipes"
-    url: /recipes/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
